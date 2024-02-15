@@ -6,7 +6,6 @@
 	 2. Tcp / ip https://youtu.be/2I1HnSN1H9o?si=CRRL-_ffmHYOGQMg
 	 3. Debug introduction  https://youtu.be/j3LH4NFHhoc?si=hnZK2DeZIKCBQE4y
 	 4. Client - Server https://youtu.be/JlTQujO6cbA?si=rk4ts-WzF5BOb_0b
-  	 5. 
 ## React
     1. https://youtu.be/GNrdg3PzpJQ?si=dZ1NEzfsMSaags_3
     2. https://youtu.be/mUvYGUYMvKo?si=QOqMIxyEXb7ocpA8
@@ -33,4 +32,6 @@
 ## Redux toolkit query
     1. https://youtu.be/uSwe-5dPrV8?si=IFzCPVWW_K9VewIp
 ## TypeScript
-    1. https://www.youtube.com/watch?v=iugNHvMWBw4&list=PLNkWIWHIRwMEm1FgiLjHqSky27x5rXvQa&index=2coming soon
+    1. https://www.youtube.com/watch?v=iugNHvMWBw4&list=PLNkWIWHIRwMEm1FgiLjHqSky27x5rXvQa&index=2
+    
+    coming soon
